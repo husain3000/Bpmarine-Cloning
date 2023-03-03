@@ -1,4 +1,4 @@
-.title-wel-2 {
+.title {
     width: 100%;
     min-height: 48px;
     background: #009f82;
@@ -28,7 +28,7 @@
     margin: 20px 10px 0 60px;
 }
 
-.news-tit {
+.news-title {
     width: 100%;
     height: 40px;
     float: left;
