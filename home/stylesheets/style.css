@@ -1,6 +1,184 @@
+.logo{
+    position: relative;
+    margin-left: 18%;
+}
+.toptext{
+    position: relative;
+    margin-left: 25%;
+    bottom: 6.5rem;
+    font-size: 25px;
+    color: #719f82;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bottomtext{
+    position: relative;
+    margin-left: 25%;
+    bottom: 7.5rem;
+    font-size: 18px;
+}
+.contactinfo{
+    position: relative;
+    margin-left: 65%;
+    bottom: 13rem;
+    
+}
+.switchbuttons{
+    position: relative;
+    bottom: 9rem;
+    background-color: #e2dfde;
+    width: 100%;
+    height: 2rem;
+    padding: 20px;
+    
+}
+.button{
+    background-color: transparent;
+    border-color: transparent;
+    height: 100%;
+    padding: 1%;
+}.button:hover{
+    background-color: #009f82;
+}
+.buttons{
+    margin-left: 13%;
+    
+}
+.images{
+    position: relative;
+    top: .5rem;
+    width: 100%;
+    margin-left: -20px;
+}
+.floating{
+    position: relative;
+    top: 30%;
+    color: red;
+}
+.bottombuttons{
+    position: relative;
+    bottom: -50%;
+    padding: 20px;
+    background-color: #e2dfde;
+    width: 100%;
+    margin-left: -20px;
+}
+.bottombtns{
+    margin-left: 100px;
+}
+.btn1{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    background-color: #84bd3c;
+    border-color: transparent;
+    color: white;
+}
+.btn1:hover{
+    color: black;
+}
+
+.btn2{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #c44e95;
+}
+.btn2:hover{
+    color: black;
+}
+.btn3{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #ee2d2d;
+}
+.btn3:hover{
+    color: black;
+}
+.btn4{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #3f51c7;
+}
+.btn4:hover{
+    color: black;
+}
+.btn5{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #faa820;
+}
+.btn5:hover{
+    color: black;
+}
+.btn6{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #00a6e4;
+}
+.btn6:hover{
+    color: black;
+}
+.btn7{
+    position: relative;
+    padding: 10px;
+    height: 60px;
+    width: 10rem;
+    border-color: transparent;
+    color: white;
+    background-color: #009f82;
+}
+.btn7:hover{
+    color: black;
+}
+
+.btn{
+    background-color: transparent;
+    border-color: transparent;
+}
+.btn:hover{
+    color: #10a489;
+}
+.footerbuttons{
+    margin-left: 15%;
+}
+.footertext{
+    position: relative;
+    top: 3rem;
+    margin-left: 1%;
+    color: #848383;
+}
+.pow{
+    position: relative;
+    margin-left: 80%;
+    top: 2rem;
+    color: #848383;
+}
+.a1{
+    text-decoration: none;
+    color: #bfbebe;
+}
 /* *{
     margin: 50px 50px 50px 50px;
-
 } */
 
 .home{
@@ -158,7 +336,6 @@
 /* .dot{
     background-color: cadetblue;
     padding: 10px;
-
 } */
 .events{
     height: 300px;
