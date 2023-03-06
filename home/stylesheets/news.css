@@ -77,7 +77,7 @@
     display: flexbox;
 }
 
-li{
+.buttons li{
     position: relative;
     list-style-type: none;
     margin-left: 12rem;
