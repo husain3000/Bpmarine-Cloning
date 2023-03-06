@@ -112,3 +112,37 @@ a{
 a:hover{
     background-color: #009f82;
 }
+#footer{
+    width: 100%;
+    background-color: #e2dfde;
+    margin-top: 5%;
+    height: 7rem;
+    position: relative;
+    display: flexbox;
+}
+.left{
+    position: relative;
+    top: 20px;
+    margin-left: 80px;
+}
+.b1{
+    background-color: transparent;
+    border-color: transparent;
+}
+.b1:hover{
+    color: #16a68c;
+}
+.footertext{
+    color: #747373;
+    position: relative;
+    margin-top: 45px;
+    margin-left: 83px;
+
+}
+.pow{
+    position: relative;
+    float: right;
+    margin-right: 80px;
+    color: #747373;
+    bottom: 1rem;
+}
